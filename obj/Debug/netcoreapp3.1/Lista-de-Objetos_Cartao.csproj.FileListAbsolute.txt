@@ -1,0 +1,13 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\bin\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\bin\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\bin\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\bin\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\bin\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\bin\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\obj\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\obj\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\obj\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\obj\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\obj\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\obj\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Lista-de-Objetos_Cartao\obj\Debug\netcoreapp3.1\Lista-de-Objetos_Cartao.genruntimeconfig.cache
